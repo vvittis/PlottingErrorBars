@@ -1,3 +1,6 @@
+# vasilis vittis
+
+# Reference Article: https://www.geeksforgeeks.org/errorbar-graph-in-python-using-matplotlib/
 import matplotlib.pyplot as plt
 
 NUMBER_OF_TESTS = 4
